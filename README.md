@@ -1,7 +1,7 @@
 # calculatrice-scientifique
-# Réalisation d’une calculatrice scientifique avec interface graphique en  utilisant le langage python.
-# Les fonctionnalités essentielles à programmer sont :
-# • Les opérations mathématiques fondamentales : addition, 
+Réalisation d’une calculatrice scientifique avec interface graphique en  utilisant le langage python.
+Les fonctionnalités essentielles à programmer sont :
+• Les opérations mathématiques fondamentales : addition, 
 division, multiplication, reste de la division, soustraction, etc.
 • Les opérations logiques : and, or, not, etc.
 • Les fonctions mathématiques : PGCD, factorielle, cube, 
